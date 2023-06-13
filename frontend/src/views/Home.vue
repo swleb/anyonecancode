@@ -6,8 +6,8 @@
         <div id="right"></div>
         <div id="top"></div>
         <div id="bottom"></div>
-        <b-navbar-item id="fontnavbar" class="title is-2">
-          Milligram
+        <b-navbar-item id="fontnavbar" class="title is-2" style="color:blueviolet"
+          Mili
         </b-navbar-item>
       </template>
     </b-navbar>
@@ -79,3 +79,4 @@ export default class Home extends Vue {}
   bottom: 0;
 }
 </style>
+
